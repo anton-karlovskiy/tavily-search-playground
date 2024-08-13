@@ -1,0 +1,44 @@
+{
+  "query":"How to forecast potential fishing zones?",
+  "follow_up_questions":"None",
+  "answer":"None",
+  "images":[],
+  "results":[
+     {
+        "title":"Evaluation of remote-sensing-based potential fishing zones (PFZs ...",
+        "url":"https://www.sciencedirect.com/science/article/pii/S0278434305001688",
+        "content":"Satellite-based potential fishing zones (PFZs) forecasts were generated using integration of Ocean Colour Monitor (OCM) derived chlorophyll concentrat…",
+        "score":0.99908894,
+        "raw_content":"None"
+     },
+     {
+        "title":"Multiple ocean parameter-based potential fishing zone (PFZ) location ...",
+        "url":"https://link.springer.com/article/10.1007/s10661-023-12259-6",
+        "content":"A new conceptual framework based on satellite data, including chlorophyll (CHL), sea surface temperature (SST) fronts, relative winds, current vectors, Ekman transport, and eddies, has been developed to identify potential fishing zones (PFZ) in the Bay of Bengal (BoB). The framework aims to provide persistent forecasts, even under cloudy conditions, based on feature propagation. The validation ...",
+        "score":0.99780875,
+        "raw_content":"None"
+     },
+     {
+        "title":"(PDF) Potential Fishing Zones (PFZ) forecast using satellite data ...",
+        "url":"https://www.researchgate.net/publication/225407518_Potential_Fishing_Zones_PFZ_forecast_using_satellite_data_derived_biological_and_physical_processes",
+        "content":"PDF | On Jun 1, 2003, H. U. Solanki and others published Potential Fishing Zones (PFZ) forecast using satellite data derived biological and physical processes | Find, read and cite all the ...",
+        "score":0.9955316,
+        "raw_content":"None"
+     },
+     {
+        "title":"A Manual on the use of Potential Fishing Zone (PFZ) Forecast",
+        "url":"https://www.researchgate.net/publication/269830509_A_Manual_on_the_use_of_Potential_Fishing_Zone_PFZ_Forecast",
+        "content":"A Manual on the use of Potential Fishing Zone (PFZ) Forecast 1. Introduction. India has a long coastline of 8,129 km and an EEZ of 2.5 million sq. km, having. a high potential for exploration of ...",
+        "score":0.9949397,
+        "raw_content":"None"
+     },
+     {
+        "title":"PDF A Manual on the use of Potential Fishing Zone (PFZ) Forecast i - ICAR",
+        "url":"https://krishi.icar.gov.in/jspui/bitstream/123456789/2654/1/Technical Bulletin No. 40.pdf",
+        "content":"the use of PFZ forecast when available near shore.ConclusionThe Potential fishing Zone mission programme is an important one under the common minimum programme of Government of India, in which the latest and modern scientific technolo. is brought to the use of common men in the fisheries secto.",
+        "score":0.9923638,
+        "raw_content":"None"
+     }
+  ],
+  "response_time":2.18
+}
