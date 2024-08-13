@@ -1,6 +1,6 @@
 {
-  "max_results":2000,
-  
+  "max_results":200,
+
   "query":"How to forecast potential fishing zones?",
   "follow_up_questions":"None",
   "answer":"None",
@@ -10,7 +10,7 @@
         "url":"https://link.springer.com/article/10.1007/BF03030773",
         "title":"Potential fishing zones (PFZ) forecast using satellite data derived ...",
         "content":"Potential fishing zones (PFZ) forecast using satellite data derived biological and physical processes · Article PDF · References · Author information · About\\xa0...",
-        "score":0.9982993,
+        "score":0.9983059,
         "raw_content":"None"
      },
      {
@@ -21,24 +21,17 @@
         "raw_content":"None"
      },
      {
-        "url":"https://link.springer.com/chapter/10.1007/978-1-4020-9141-4_20",
-        "title":"Satellite observations of main oceanographic processes to identify ...",
-        "content":"Evaluation of remote-sensing-based potential fishing zones (PFZs) forecast methodology. Continental Shelf Research 25: 2163–2173. Google Scholar. Solanki\\xa0...",
-        "score":0.99375874,
-        "raw_content":"None"
-     },
-     {
         "url":"https://link.springer.com/content/pdf/10.1007/978-3-030-62015-8_8",
         "title":"Temporal Aspects of Chlorophyll-a Presence Prediction Around ...",
         "content":"potential fishing area prediction to be used in illegal fishing control activities. At certain geographical point the presence of Chlorophyll-a, in\\xa0...",
-        "score":0.968441,
+        "score":0.9683812,
         "raw_content":"None"
      },
      {
-        "url":"https://link.springer.com/article/10.1007/s44177-022-00014-4",
-        "title":"Assessment of Socio-technical Constraints of Marine Fishers in the ...",
-        "content":"Mar 10, 2022 · The method used was to scout for fish aggregation zones by placing them in the water column at expected heights of fish aggregation (determined\\xa0...",
-        "score":0.7442848,
+        "url":"https://link.springer.com/article/10.1007/s00267-022-01665-0",
+        "title":"Considering Fish as Recipients of Ecosystem Services Provides a ...",
+        "content":"May 21, 2022 · Predictions can be validated by monitoring habitat use of target fish species, assuming that target species would favour highly suitable habitat\\xa0...",
+        "score":0.31552503,
         "raw_content":"None"
      },
      {
@@ -49,33 +42,40 @@
         "raw_content":"None"
      },
      {
+        "url":"https://link.springer.com/content/pdf/10.1007%2F978-1-4020-9210-7_9.pdf",
+        "title":"Stock Assessment: Operational Models in Support of Fisheries ...",
+        "content":"Fishery stock assessment models connect ecosystem data to quantitative fishery management. Control rules that calculate annual catch limits and targets from\\xa0...",
+        "score":0.13318957,
+        "raw_content":"None"
+     },
+     {
         "url":"https://link.springer.com/content/pdf/10.1007/BF03030773.pdf",
         "title":"Potential fishing zones (PFZ) forecast using satellite data derived ...",
         "content":"Natural variations in fish stocks are caused by complex interactions of oceanic physical, chemical and biological processes. The prediction of marine\\xa0...",
-        "score":0.11797801,
+        "score":0.11777492,
         "raw_content":"None"
      },
      {
         "url":"https://link.springer.com/content/pdf/10.1007/s10750-008-9493-y.pdf",
         "title":"Modelling of essential fish habitat based on remote sensing, spatial ...",
         "content":"Abstract We review the variety of existing mod- elling approaches applied to species habitat mapping and we discuss issues arising from the availability.",
-        "score":0.114566505,
+        "score":0.11496335,
         "raw_content":"None"
      },
      {
         "url":"https://link.springer.com/article/10.1007/s11802-021-4518-5",
         "title":"Study on the Prediction System of Shrimp Field Distribution in the ...",
         "content":"Jan 12, 2021 · In this paper, the distribution of shrimp farms in the East China Sea is predicted by studying the trajectories and behavior patterns of shrimp\\xa0...",
-        "score":0.08064661,
+        "score":0.08122776,
         "raw_content":"None"
      },
      {
         "url":"https://link.springer.com/article/10.1007/s12562-020-01407-3",
         "title":"Comparison of biomass estimates from multiple stratification ...",
         "content":"Mar 12, 2020 · We recommend biomass estimation in an east–west direction based on longitudinal stratification as an effective measure to develop population\\xa0...",
-        "score":0.028490042,
+        "score":0.028544152,
         "raw_content":"None"
      }
   ],
-  "response_time":7.67
+  "response_time":6.66
 }

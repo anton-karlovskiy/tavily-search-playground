@@ -17,7 +17,7 @@ except MissingAPIKeyError:
 try:
     response = tavily_client.search(
         "How to forecast potential fishing zones?",
-        max_results=2000,
+        max_results=70,
         topic="general",
         include_domains=["https://link.springer.com"]
     )
