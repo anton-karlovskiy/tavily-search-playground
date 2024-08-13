@@ -16,6 +16,7 @@ N/A
 
 ```python
 pip install tavily-python
+pip install python-dotenv
 ```
 
 ### Usage
